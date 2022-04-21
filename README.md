@@ -1,5 +1,8 @@
 # Statistics-linear-regression
 
+# Please click HTML link above to see my solution to this question.
+
+
 Sixteen male well-trained middle and long distance runners performed a 3 km time trial and a number of running tests in the laboratory including their running velocity (km.h-1) at a blood lactate concentration of 4 mmol.l-1 (v4mM) and at their Lactate Threshold (vTlac). All the laboratory testing took place on a motorised treadmill while distance running performance was determined by 3 km time trials on an indoor 200m track.
 
 
@@ -19,4 +22,4 @@ Write a summary and a conclusion that is translatable to the sports scientist yo
 Use the template provided for the Windspeed problem as a guide.  Make sure to save all the files in the same folder.  I've included a markdown file with the first few lines to get you started.
 
 
-#Please click HTML link above to see my solution to this question. 
+ 
